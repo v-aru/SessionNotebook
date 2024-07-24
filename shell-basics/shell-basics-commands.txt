@@ -1,0 +1,29 @@
+Below is the list of the basic shell commands:
+
+Command Name                Description
+-------------------------------------------------------------
+ls                          List files and folders in current 
+                            folder 
+pwd                         Print working directory
+cd                          Navigate to a different folder
+mkdir                       Create new directory
+rm                          Delete files/folders (while empty)
+
+
+Each of the above commands make use of flags which give us 
+more refine doptions to display data.
+
+Command Name                Description
+--------------------------------------------------------------
+ls -l                       List files and folders in current 
+                            folder in list form
+ls -a                       List all hidden files and folders
+                            in the current directory
+ls -la                      List all hidden files and folders
+                            in the current directory in list 
+                            form
+cd ..                       Go up one folder in path
+cd <folderName>             Go to folder that is a child of 
+                            my current folder
+rm -rf                      Delete files/folders even when not
+                            empty
